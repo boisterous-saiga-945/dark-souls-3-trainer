@@ -1,0 +1,22 @@
+{
+  "name": "dark-souls-3-trainer",
+  "displayName": "Dark Souls 3 Trainer",
+  "programType": "trainer",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Character settings",
+    "Equipment notes",
+    "Shortcut reference"
+  ],
+  "topics": [
+    "dark-souls-3-trainer",
+    "dark-souls-3-tools",
+    "dark-souls-3-menu",
+    "dark-souls-3-settings",
+    "dark-souls-3-configs",
+    "dark-souls-3-character-settings",
+    "dark-souls-3-equipment-notes"
+  ]
+}
