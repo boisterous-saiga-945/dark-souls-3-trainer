@@ -47,4 +47,3 @@ The button and cover open the project's download page. Use the information suppl
 ---
 
 Dark Souls 3 Trainer · Program documentation and download information.
-                                                                                                    
